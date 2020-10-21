@@ -1,6 +1,6 @@
 FROM node:12.16.1-stretch
 
-ARG FIREFOX_VERSION=70.0
+ARG FIREFOX_VERSION=82.0
 
 USER root
 # Install chrome
